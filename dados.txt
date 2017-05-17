@@ -1,0 +1,8 @@
+6
+Ana 60 1,65
+Bia 55 1,7
+Carlos 90 1,77
+Daniel 90 1,7
+Elaine 45 1,55
+Fábio 70 1,75
+
